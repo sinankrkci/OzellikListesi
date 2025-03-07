@@ -5,3 +5,5 @@ Kitap Arama ve Rezervasyon: Kullanıcıların kitapları arayabileceği ve mevcu
 Kullanıcı Hesapları ve Profil Yönetimi: Kullanıcıların üyelik bilgilerini yönetebileceği, ödünç aldığı kitapları ve geçmiş işlemleri görebileceği hesap yönetimi.
 
 Kitap Durum Bilgisi: Kitapların mevcut durumu (ödünçte, raflarda, rezervasyonlu vb.) hakkında kullanıcıya bilgi veren bir sistem.
+Admin Paneli: Kütüphane yöneticilerinin kullanıcı hesaplarını, kitap envanterini ve ödünç alma işlemlerini yönetebileceği bir admin paneli. Bu panel, kitap ekleme, silme, kullanıcı erişimlerini denetleme ve sistemdeki tüm işlemleri izleme gibi yönetimsel işlevler sunar.
+
