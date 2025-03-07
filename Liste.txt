@@ -1,0 +1,7 @@
+Kitap Arama ve Rezervasyon: Kullanıcıların kitapları arayabileceği ve mevcutsa rezervasyon yapabileceği bir sistem.
+
+Ödünç Alma ve İade Takibi: Kullanıcıların kitapları ödünç alıp geri iade tarihlerini takip edebileceği bir takip sistemi.
+
+Kullanıcı Hesapları ve Profil Yönetimi: Kullanıcıların üyelik bilgilerini yönetebileceği, ödünç aldığı kitapları ve geçmiş işlemleri görebileceği hesap yönetimi.
+
+Kitap Durum Bilgisi: Kitapların mevcut durumu (ödünçte, raflarda, rezervasyonlu vb.) hakkında kullanıcıya bilgi veren bir sistem.
